@@ -133,7 +133,7 @@ public class ModelCraps {
                 estadoToString[0] = "Tiro de Salida = " + punto
                         + "\nPunto = " + punto
                         + "\nValor del nuevo Tiro = " + tiro;
-                estadoToString[1] = "Estás en Puunto y debes seguir lanzando"
+                estadoToString[1] = "Estás en Punto y debes seguir lanzando"
                         + "\npero si sacas 7 antes que " + punto + " perderás";
                 break;
 

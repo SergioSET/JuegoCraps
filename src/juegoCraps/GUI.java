@@ -12,7 +12,7 @@ import java.awt.event.ActionListener;
  * @autor Sergio Escudero Tabares sergio.escudero@correounivalle.edu.co
  */
 public class GUI extends JFrame {
-    private static final String MENSAJE_INICIO = "Bienvenido a Craps"
+    public static final String MENSAJE_INICIO = "Bienvenido a Craps"
             + "\n Oprime el botón lanzar para iniciar el juego"
             + "\n Si tu tiro de salida es de 7 u 11 ganas con Natural"
             + "\n Si tu tiro de salida es 2, 3 u 12 pierdes con Craps"
